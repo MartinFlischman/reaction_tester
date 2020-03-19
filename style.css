@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #1E1F26;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 42px;
+    font-weight: bold;
+}
+
+#shape {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+}
+        
+.bold {
+                
+    font-weight: bold;
+    
+}
